@@ -1,5 +1,15 @@
 __pycache__/
 *.py[cod]
+*.egg-info/
 .venv/
 venv/
+env/
 .env
+.env.*
+!.env.example
+.python-version
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
